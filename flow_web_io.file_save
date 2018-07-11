@@ -1,0 +1,12 @@
+v_procedure|show_dbkey_info.date_selection|
+v_category|SW|
+v_js_flag|Y|
+v_dbkey|P0796/FE771/03620/P0950/FE772/03626/P0951/FE773/03632/P0952/FE774/03638/15042/91487/FB752/91488/MQ895/AM173/MQ896/64136|
+v_sdate|19780101|
+v_edate|20180711|
+v_period|uspec|
+v_start_date|19771001|
+v_end_date|20170930|
+v_report_type|format6|
+v_target_code|file_csv|
+v_run_mode|onLine|
