@@ -9,7 +9,7 @@ Information related to the original developement of the total phopshorus limits 
 
 ***
 ## Repositoty Contents:
-1. Water Quality data retrieved from the South Florida Water Management District's [DBHYDRO](http://my.sfwmd.gov/dbhydroplsql/show_dbkey_info.main_menu) databse databse.
-2. Discharge data for relevant strucutres specific to Shark River Slough and Taylr Slough retrieved from DBHYDRO.
+1. Water Quality data retrieved from the South Florida Water Management District's [DBHYDRO](http://my.sfwmd.gov/dbhydroplsql/show_dbkey_info.main_menu) databse databse (REPORT_WQ.csv).
+2. Discharge data for relevant strucutres specific to Shark River Slough and Taylr Slough retrieved from DBHYDRO (REPORT_Flow.csv).
 
 _As more information becomes available this list will be modified._
